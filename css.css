@@ -1,0 +1,22 @@
+h1 {
+    font-weight: 100;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+textarea{
+    display: block;
+}
+
+
+u{
+    color: brown;
+}
+
+
+b{
+    font-size:xx-large;
+    color: blue;
+    font-weight: 300;
+
+}
